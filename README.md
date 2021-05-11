@@ -10,7 +10,7 @@ It contains many classes that interact with each other. Activities that can be m
   - user group creation and joining into them
   - sending messages among all users
   - **launch simulation where all activities above occur and are commented in the output**
-  - access all sent messages, shared posts, comments etc. - everything is stored with all details
+  - access all sent messages, shared posts, comments etc. - everything is stored with all details such as sender, reciever and content
 
 
 ![screenshot1](https://user-images.githubusercontent.com/19817784/117889785-65666980-b2b4-11eb-961d-889b343cb77f.png)
