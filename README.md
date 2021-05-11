@@ -9,4 +9,4 @@ It contains many classes that interact with each other. Activities that can be m
   - random commenting on posts
   - user group creation and joining into them
   - sending messages to other users
-  - launch simulation where all activities above occur and are commented in the output
+  - **launch simulation where all activities above occur and are commented in the output**
