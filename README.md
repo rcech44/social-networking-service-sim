@@ -1,6 +1,6 @@
 # Social networking site
 
-One of my very first projects - social networking site made in C++ as console application.
+One of my very first amateur projects - social networking site made in C++ as console application.
 It contains many classes that interact with each other. Activities that can be made:
   - add new user
   - rename random user
